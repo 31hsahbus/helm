@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/31hsahbus/helm.git
     targetRevision: HEAD
-    path: dev
+    path: springboot
   destination: 
     server: https://kubernetes.default.svc
     namespace: helm-demo
