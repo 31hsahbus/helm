@@ -1,0 +1,5 @@
+# Create our first Chart
+cd kubernetes/helm
+
+mkdir temp && cd temp
+helm create example-app
